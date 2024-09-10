@@ -10,7 +10,7 @@
 
 Modify the `xv6` kernel source code and print the string `SNUOS2024` on the screen, along with your student ID and your name, during the boot process, as shown in the following example. ___Please be creative when you print your name and student ID!___  The top 5 most impressive submissions, handpicked by the TAs, will receive a 10% bonus.  
 
-![PNG image format](https://github.com/snu-csl/os-pa1/blob/main/pa1.png)
+![PNG image format](https://github.com/snu-csl/os-pa1/blob/master/pa1.png)
 
 ## Restrictions
 
