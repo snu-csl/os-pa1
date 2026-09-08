@@ -1,6 +1,6 @@
 # 4190.307 Operating Systems (Fall 2026)
 # Project #1: Hello world, xv6
-### Due: 11:59 PM, March 15 (Tuesday)
+### Due: 11:59 PM, September 15 (Tuesday)
 
 ## Introduction
 
